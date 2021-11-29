@@ -43,7 +43,7 @@ pip install -r requirements.txt
 - This simulation will be run on large volumes so run time efficiency is critical.
 - The path of an agent is just as important as its final location. Along with each simulation, a separate NumPy file will be generated that records the location of each agent every turn.
 
-![03_probabilities](images/03_probabilities.png)
+![03_probabilities](images/03_probabilities.jpg)
 
 ### Summary
  
